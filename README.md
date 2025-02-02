@@ -3,8 +3,7 @@ Welcome to my GitHub profile! I am Elena, a  budding Python developer passionate
 With a solid foundation in Python, I am on a mission to expand my horizons, contribute to open-source projects, and continuously learn from the incredible developer community. 
 
 ## 🌐To connect:
-[<img src="![image](https://github.com/user-attachments/assets/92cbd73a-bc20-429e-9174-cfb336aba9c0)
-" width="26px" style="padding-right:50px">](https://www.instagram.com/_hellenats/)
+[<img src="https://github.com/user-attachments/assets/92cbd73a-bc20-429e-9174-cfb336aba9c0" width="26px" style="padding-right:50px">](https://www.instagram.com/_hellenats/)
 [img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/linkedin-64.png" width="26px" style="padding-right:50px"](www.linkedin.com/in/elena-tsvetkovaa)
 
 # 💻Tech Stack
